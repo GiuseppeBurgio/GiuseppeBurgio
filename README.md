@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Giuseppe and I'm a psychologist. I've always had a passion for technology and a few months ago I decided to learn programming.
 <!--
 **GiuseppeBurgio/GiuseppeBurgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
